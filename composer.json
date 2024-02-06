@@ -1,5 +1,5 @@
 {
-    "name": "symbiote/silverstripe-addressable",
+    "name": "dd875/silverstripe-addressable",
     "description": "SilverStripe addressable and geocoding module",
     "type": "silverstripe-vendormodule",
     "keywords": [
